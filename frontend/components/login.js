@@ -3,9 +3,7 @@ import React from 'react'
 const login = () =>{
     return (
         <div>
-            this is login anish
-            THIS IS LOGIN OAGE
-            sdfgsh
+            my name is rithvik
             
         </div>
     )
